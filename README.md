@@ -1,6 +1,6 @@
-### Hi, I’m Joel Drapper 👋
+### Hi, I’m Joel 👋
 
-I’m a senior software engineer on the Privacy Engineering team at Shopify.
+Working on Ruby conventions at Shopify.
 
 [![](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://theabstraction.space)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/joeldrapper)
