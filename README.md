@@ -1,6 +1,6 @@
 ### Hi, I’m Joel 👋
 
-I work on Ruby conventions at Shopify and maintian a few open source Ruby gems.
+I work on Ruby conventions at **[Shopify](https://shopify.com)** from my home in Oxfordshire, UK. I maintian a few open source Ruby gems including **[Literal Enums](/joeldrapper/literal_enums)**, **[Action State](/joeldrapper/action_state)** and **[Ecase](/joeldrapper/ecase)**. I’m currently developing a block-based view component system for Ruby called **Phlex** and a library of Tailwind Phlex components.
 
 [![](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://theabstraction.space)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/joeldrapper)
