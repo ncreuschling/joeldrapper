@@ -4,5 +4,5 @@ I maintain a few open source Ruby gems including **[Phlex](https://phlex.fun)**,
 
 I write an newsletter called **[The Abstraction](https://www.theabstraction.space)** and co-host a pair-programming show, **[Naming Things](https://www.namingthings.org)**.
 
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/joeldrapper)
+<a href="https://ruby.social/@joeldrapper" rel="me"><img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-1DA1F2?style=for-the-badge&logo=mastodon&logoColor=white"></a>
 [![](https://img.shields.io/badge/Email-30B980?style=for-the-badge&logo=Minutemailer&logoColor=white)](mailto:joel@drapper.me)
